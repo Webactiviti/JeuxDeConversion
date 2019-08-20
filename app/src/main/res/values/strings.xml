@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">JeuxDeConversion</string>
+    <string name="chiffre_romain">Chiffre romain</string>
+    <string name="conversion_rot_13">Conversion ROT-13</string>
+    <string name="des_petits_jeux_de_conversion">Des petits jeux de conversion.</string>
+    <string name="conversion_celcius_fahrenheit">Conversion Celcius / Fahrenheit</string>
+    <string name="suite_de_fibonacci">Suite de Fibonacci</string>
+    <string name="convertisseur_celcius_fahrenheit">Convertisseur Celcius / Fahrenheit</string>
+    <string name="celcius">Celcius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="c_f"><![CDATA[C = = > F]]></string>
+    <string name="f_c"><![CDATA[F = = > C]]></string>
+    <string name="nouveau_calcul">Nouveau calcul</string>
+    <string name="conversion_de_texte_en_rot_13">Conversion de texte en ROT-13</string>
+    <string name="votre_texte">Votre texte</string>
+    <string name="saisissez_un_num_ro_entre_1_et_4999">Saisissez un numéro entre 1 et 4999</string>
+    <string name="nombre">nombre</string>
+    <string name="num_ro">Numéro</string>
+    <string name="conversion_chiffre_romain">Conversion chiffre romain</string>
+    <string name="r_sultat">Résultat :</string>
+    <string name="rang">Rang</string>
+    <string name="calcul_fibonacci">Calcul Fibonacci</string>
+    <string name="saisir_un_nombre_entre_0_et_10">Saisir un nombre entre 0 et 10</string>
+</resources>
